@@ -2,7 +2,6 @@
 
 ### Progress tracker
 
-```markdown
-| Wargame | Progress | Status ---------|
+| Wargame | Progress | Status |
 |---------|----------|-----------------|
-| Bandit  | 9/34     | 🟡 In Progress |
+| Bandit  | 13/34     | 🟡 In Progress |
