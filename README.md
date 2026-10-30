@@ -4,4 +4,4 @@
 
 | Wargame | Progress | Status |
 |---------|----------|-----------------|
-| Bandit  | 14/34     | 🟡 In Progress |
+| Bandit  | 16/34    | 🟡 In Progress |
